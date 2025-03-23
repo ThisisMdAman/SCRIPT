@@ -17,13 +17,8 @@ p, li {
   margin-bottom: 55px;
 }
 
-
-html {
-  background-color: #4F5255;
-}
-
 body {
-  width: 900px;
+  width: 767px;
   margin: 0 auto;
   background-color: #740B0B;
   padding: 0 20px 20px 20px;
